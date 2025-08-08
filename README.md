@@ -22,6 +22,11 @@ Oliver Solutions provides secure, compliant, and user-friendly **e-learning**, *
 | **Remote Exam Proctoring** | Live or AI-assisted monitoring of online exams with video and audio recording. |
 | **E-Learning Portal** | Course delivery platform for learners in regulated industries. |
 
+### Affiliated Solutions
+- **Safe by Oliver** – Secure identity verification and fraud prevention solutions.  
+  Website: [https://safebyoliver.com/](https://safebyoliver.com/)
+
+
 **Tip:** Familiarize yourself with Oliver’s public website and demo materials to recognize interface terminology clients will mention.
 
 ---
