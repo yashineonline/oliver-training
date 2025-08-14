@@ -72,3 +72,23 @@ Wait for page to load.
 
 ---
 
+## 3. Missing or Unreadable ID
+**Purpose:** Handle cases where student ID is missing or unclear.
+
+**Steps:**
+1. Create a **Zendesk Ticket**.
+2. Load **Request for ID** template.
+3. Highlight the relevant reason (e.g., “ID not clearly visible” or “Missing ID picture”).
+4. Subject: `[Course name] ID`.
+5. Organization: [Company Name].
+6. Topic: **Customer Support Q&A**.
+7. Assign to yourself.
+8. In the video system, flag the video as “ID not visible”.
+9. In Student Management, retrieve the email linked to the username.
+10. Copy-paste email into the ticket.
+11. Submit as **Solved** (do not wait for reply).
+12. If student replies with valid ID:
+    - Compare with video.
+    - Remove flag/comment in notes.
+    - Change status to **Approved**.
+
